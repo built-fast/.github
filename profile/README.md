@@ -1,6 +1,6 @@
 # BuiltFast Open Source
 
-We're a founder-led hosting company built by people who've spent decades in the industry and still love to write code. We build [Vector Pro][]---serverless WordPress hosting on AWS Lambda---and the developer tools around it.
+We're a founder-led hosting company built by people who've spent decades in the industry and still love to write code. We build [Vector Pro][]-serverless WordPress hosting on AWS Lambda-and the developer tools around it.
 
 This is where we open source the stuff we've built along the way. No vanity projects. These are tools we use in production, and we're sharing them because the developer community shaped our careers and we'd like to return the favor.
 
@@ -13,23 +13,15 @@ This is where we open source the stuff we've built along the way. No vanity proj
 
 ## What You'll Find Here
 
-Developer tools, CLI utilities, GitHub Actions, and libraries, mostly focused on hosting infrastructure, deployment automation, and developer experience. All MIT-licensed.
+Developer tools, CLI utilities, GitHub Actions, and libraries, mostly focused on hosting infrastructure, deployment automation, and developer experience. All MIT-licensed. [See everything below 👇](#org-profile-repositories).
 
 <!-- START:badges -->
 ![Public Repos](https://img.shields.io/badge/repos-15-blue) ![Total Stars](https://img.shields.io/badge/stars-21-yellow) ![Contributors](https://img.shields.io/badge/contributors-1-green)
 <!-- END:badges -->
 
-- **[vector-cli][]** - CLI for managing Vector Pro sites, databases, and deployments
-- **[jekyll-lucide][]** - Lucide icons as a Jekyll plugin
-- **[homebrew-tap][]** - Homebrew tap for BuiltFast tools
-
-[vector-cli]: https://github.com/built-fast/vector-cli
-[jekyll-lucide]: https://github.com/built-fast/jekyll-lucide
-[homebrew-tap]: https://github.com/built-fast/homebrew-tap
-
 ## Recently Shipped
 
-Latest changes to [Vector Pro][] and our open source tools---see the full [changelog](https://builtfast.dev/changelog/) for more.
+Latest changes to [Vector Pro][] and our open source tools. See the full [changelog](https://builtfast.dev/changelog/) for more.
 
 <!-- START:recently_shipped -->
 - [Vector Pro: Deploy with Uploads](https://builtfast.dev/changelog/2026-02-05-2/) — Feb 5, 2026
@@ -39,7 +31,7 @@ Latest changes to [Vector Pro][] and our open source tools---see the full [chang
 
 ## Get In Touch
 
-We write about the things we build at [builtfast.dev][devs]. If you want to talk hosting, open source, or just want to compare Vim configs---we're around.
+We write about the things we build at [builtfast.dev][devs]. If you want to talk hosting, open source, or just want to compare Vim configs, we're around.
 
 <!-- START:blog_post -->
 **Latest from the blog:**
@@ -52,7 +44,7 @@ We write about the things we build at [builtfast.dev][devs]. If you want to talk
 
 ---
 
-*[BuiltFast][builtfast.com] --- built for speed and service*
+*[BuiltFast][builtfast.com]-built for speed and service*
 
 [builtfast.com]: https://builtfast.com
 [Vector Pro]: https://builtfast.dev/api/
