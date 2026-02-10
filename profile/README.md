@@ -16,7 +16,7 @@ This is where we open source the stuff we've built along the way. No vanity proj
 Developer tools, CLI utilities, GitHub Actions, and libraries, mostly focused on hosting infrastructure, deployment automation, and developer experience. All MIT-licensed. [See everything below 👇](#org-profile-repositories).
 
 <!-- START:badges -->
-![Public Repos](https://img.shields.io/badge/repos-15-blue) ![Total Stars](https://img.shields.io/badge/stars-21-yellow) ![Contributors](https://img.shields.io/badge/contributors-1-green)
+![Public Repos](https://img.shields.io/badge/repos-16-blue) ![Total Stars](https://img.shields.io/badge/stars-21-yellow) ![Contributors](https://img.shields.io/badge/contributors-1-green)
 <!-- END:badges -->
 
 ## Recently Shipped
