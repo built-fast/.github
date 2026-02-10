@@ -16,7 +16,7 @@ This is where we open source the stuff we've built along the way. No vanity proj
 Developer tools, CLI utilities, GitHub Actions, and libraries, mostly focused on hosting infrastructure, deployment automation, and developer experience. All MIT-licensed. [See everything below 👇](#org-profile-repositories).
 
 <!-- START:badges -->
-![Public Repos](https://img.shields.io/badge/repos-16-blue) ![Total Stars](https://img.shields.io/badge/stars-21-yellow) ![Contributors](https://img.shields.io/badge/contributors-1-green)
+![Public Repos](https://img.shields.io/badge/repos-15-blue) ![Total Stars](https://img.shields.io/badge/stars-21-yellow) ![Contributors](https://img.shields.io/badge/contributors-1-green)
 <!-- END:badges -->
 
 ## Recently Shipped
@@ -36,10 +36,10 @@ We write about the things we build at [builtfast.dev][devs]. If you want to talk
 <!-- START:blog_post -->
 **Latest from the blog:**
 
+- [Automating your GitHub organization profile with Actions](https://builtfast.dev/blog/automating-your-github-organization-profile-with-actions/) — Feb 9, 2026
 - [Lucide icons for Jekyll](https://builtfast.dev/blog/lucide-icons-for-jekyll/) — Feb 1, 2026
 - [Copy for AI: instant API integration with your favorite LLM](https://builtfast.dev/blog/copy-for-ai-instant-api-integration-with-your-favorite-llm/) — Feb 1, 2026
 - [Automating Laravel Migration Squashing with GitHub Actions](https://builtfast.dev/blog/automating-laravel-migration-squashing-with-github-actions/) — Feb 1, 2026
-- [Managing Laravel env secrets with 1Password CLI](https://builtfast.dev/blog/managing-laravel-env-secrets-with-1password-cli/) — Jan 31, 2026
 <!-- END:blog_post -->
 
 ---
