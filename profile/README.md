@@ -24,9 +24,9 @@ Developer tools, CLI utilities, GitHub Actions, and libraries, mostly focused on
 Latest changes to [Vector Pro][] and our open source tools. See the full [changelog](https://builtfast.dev/changelog/) for more.
 
 <!-- START:recently_shipped -->
+- [Vector Pro: Database Import API](https://builtfast.dev/changelog/2026-02-11-1/) — Feb 11, 2026
 - [Vector Pro: Deploy with Uploads](https://builtfast.dev/changelog/2026-02-05-2/) — Feb 5, 2026
 - [Vector Pro: Developer Tools v0.1.0](https://builtfast.dev/changelog/2026-02-05-1/) — Feb 5, 2026
-- [Vector Pro: Database Reset Password Route Renamed](https://builtfast.dev/changelog/2026-02-02-1/) — Feb 2, 2026
 <!-- END:recently_shipped -->
 
 ## Get In Touch
@@ -36,10 +36,10 @@ We write about the things we build at [builtfast.dev][devs]. If you want to talk
 <!-- START:blog_post -->
 **Latest from the blog:**
 
+- [Bash debug tracing with a custom PS4](https://builtfast.dev/blog/bash-debug-tracing-with-a-custom-ps4/) — Feb 10, 2026
 - [Automating your GitHub organization profile with Actions](https://builtfast.dev/blog/automating-your-github-organization-profile-with-actions/) — Feb 9, 2026
 - [Lucide icons for Jekyll](https://builtfast.dev/blog/lucide-icons-for-jekyll/) — Feb 1, 2026
 - [Copy for AI: instant API integration with your favorite LLM](https://builtfast.dev/blog/copy-for-ai-instant-api-integration-with-your-favorite-llm/) — Feb 1, 2026
-- [Automating Laravel Migration Squashing with GitHub Actions](https://builtfast.dev/blog/automating-laravel-migration-squashing-with-github-actions/) — Feb 1, 2026
 <!-- END:blog_post -->
 
 ---
