@@ -36,10 +36,10 @@ We write about the things we build at [builtfast.dev][devs]. If you want to talk
 <!-- START:blog_post -->
 **Latest from the blog:**
 
+- [Customizing the Claude Code spinner](https://builtfast.dev/blog/customizing-the-claude-code-spinner/) — Feb 12, 2026
 - [Bash debug tracing with a custom PS4](https://builtfast.dev/blog/bash-debug-tracing-with-a-custom-ps4/) — Feb 10, 2026
 - [Automating your GitHub organization profile with Actions](https://builtfast.dev/blog/automating-your-github-organization-profile-with-actions/) — Feb 9, 2026
 - [Lucide icons for Jekyll](https://builtfast.dev/blog/lucide-icons-for-jekyll/) — Feb 1, 2026
-- [Copy for AI: instant API integration with your favorite LLM](https://builtfast.dev/blog/copy-for-ai-instant-api-integration-with-your-favorite-llm/) — Feb 1, 2026
 <!-- END:blog_post -->
 
 ---
