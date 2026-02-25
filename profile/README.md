@@ -24,9 +24,9 @@ Developer tools, CLI utilities, GitHub Actions, and libraries, mostly focused on
 Latest changes to [Vector Pro][] and our open source tools. See the full [changelog](https://builtfast.dev/changelog/) for more.
 
 <!-- START:recently_shipped -->
+- [Vector Pro: Restores API & Backup Status Update](https://builtfast.dev/changelog/2026-02-25-1/) — Feb 25, 2026
+- [Vector Pro: Site Backups API](https://builtfast.dev/changelog/2026-02-20-1/) — Feb 20, 2026
 - [Vector Pro: Secrets & Database Import Updates](https://builtfast.dev/changelog/2026-02-11-2/) — Feb 11, 2026
-- [Vector Pro: Database Import API](https://builtfast.dev/changelog/2026-02-11-1/) — Feb 11, 2026
-- [Vector Pro: Deploy with Uploads](https://builtfast.dev/changelog/2026-02-05-2/) — Feb 5, 2026
 <!-- END:recently_shipped -->
 
 ## Get In Touch
