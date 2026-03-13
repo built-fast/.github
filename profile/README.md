@@ -16,7 +16,7 @@ This is where we open source the stuff we've built along the way. No vanity proj
 Developer tools, CLI utilities, GitHub Actions, and libraries, mostly focused on hosting infrastructure, deployment automation, and developer experience. All MIT-licensed. [See everything below 👇](#org-profile-repositories).
 
 <!-- START:badges -->
-![Public Repos](https://img.shields.io/badge/repos-15-blue) ![Total Stars](https://img.shields.io/badge/stars-21-yellow) ![Contributors](https://img.shields.io/badge/contributors-1-green)
+![Public Repos](https://img.shields.io/badge/repos-16-blue) ![Total Stars](https://img.shields.io/badge/stars-21-yellow) ![Contributors](https://img.shields.io/badge/contributors-1-green)
 <!-- END:badges -->
 
 ## Recently Shipped
@@ -24,9 +24,9 @@ Developer tools, CLI utilities, GitHub Actions, and libraries, mostly focused on
 Latest changes to [Vector Pro][] and our open source tools. See the full [changelog](https://builtfast.dev/changelog/) for more.
 
 <!-- START:recently_shipped -->
+- [Vector Pro: WordPress Auto-Install on Site Creation](https://builtfast.dev/changelog/2026-03-13-1/) — Mar 13, 2026
 - [Vector Pro: Domain Change API Consolidation](https://builtfast.dev/changelog/2026-03-11-1/) — Mar 11, 2026
 - [Vector Pro: Backups & Restores Promoted to Top-Level API Groups](https://builtfast.dev/changelog/2026-02-27-1/) — Feb 27, 2026
-- [Vector Pro: Backup API Enhancements & Download Endpoints](https://builtfast.dev/changelog/2026-02-26-1/) — Feb 26, 2026
 <!-- END:recently_shipped -->
 
 ## Get In Touch
