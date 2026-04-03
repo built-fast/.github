@@ -24,9 +24,9 @@ Developer tools, CLI utilities, GitHub Actions, and libraries, mostly focused on
 Latest changes to [Vector Pro][] and our open source tools. See the full [changelog](https://builtfast.dev/changelog/) for more.
 
 <!-- START:recently_shipped -->
+- [Vector Pro: Authentication Whoami Endpoint](https://builtfast.dev/changelog/2026-03-15-1/) — Mar 15, 2026
 - [Vector Pro: WordPress Auto-Install on Site Creation](https://builtfast.dev/changelog/2026-03-13-1/) — Mar 13, 2026
 - [Vector Pro: Domain Change API Consolidation](https://builtfast.dev/changelog/2026-03-11-1/) — Mar 11, 2026
-- [Vector Pro: Backups & Restores Promoted to Top-Level API Groups](https://builtfast.dev/changelog/2026-02-27-1/) — Feb 27, 2026
 <!-- END:recently_shipped -->
 
 ## Get In Touch
