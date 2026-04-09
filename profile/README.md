@@ -16,7 +16,7 @@ This is where we open source the stuff we've built along the way. No vanity proj
 Developer tools, CLI utilities, GitHub Actions, and libraries, mostly focused on hosting infrastructure, deployment automation, and developer experience. All MIT-licensed. [See everything below 👇](#org-profile-repositories).
 
 <!-- START:badges -->
-![Public Repos](https://img.shields.io/badge/repos-18-blue) ![Total Stars](https://img.shields.io/badge/stars-22-yellow) ![Contributors](https://img.shields.io/badge/contributors-1-green)
+![Public Repos](https://img.shields.io/badge/repos-18-blue) ![Total Stars](https://img.shields.io/badge/stars-24-yellow) ![Contributors](https://img.shields.io/badge/contributors-1-green)
 <!-- END:badges -->
 
 ## Recently Shipped
@@ -24,9 +24,9 @@ Developer tools, CLI utilities, GitHub Actions, and libraries, mostly focused on
 Latest changes to [Vector Pro][] and our open source tools. See the full [changelog](https://builtfast.dev/changelog/) for more.
 
 <!-- START:recently_shipped -->
+- [Vector Pro: CDN & WAF API Endpoints](https://builtfast.dev/changelog/2026-04-08-1/) — Apr 8, 2026
 - [Vector Pro: Authentication Whoami Endpoint](https://builtfast.dev/changelog/2026-03-15-1/) — Mar 15, 2026
 - [Vector Pro: WordPress Auto-Install on Site Creation](https://builtfast.dev/changelog/2026-03-13-1/) — Mar 13, 2026
-- [Vector Pro: Domain Change API Consolidation](https://builtfast.dev/changelog/2026-03-11-1/) — Mar 11, 2026
 <!-- END:recently_shipped -->
 
 ## Get In Touch
@@ -36,10 +36,10 @@ We write about the things we build at [builtfast.dev][devs]. If you want to talk
 <!-- START:blog_post -->
 **Latest from the blog:**
 
+- [Automating API Documentation with Scribe and GitHub Actions](https://builtfast.dev/blog/automating-api-documentation-with-scribe-and-github-actions/) — Apr 8, 2026
 - [Git worktrees for parallel Laravel development](https://builtfast.dev/blog/git-worktrees-for-parallel-laravel-development/) — Feb 28, 2026
 - [Customizing the Claude Code spinner](https://builtfast.dev/blog/customizing-the-claude-code-spinner/) — Feb 12, 2026
 - [Bash debug tracing with a custom PS4](https://builtfast.dev/blog/bash-debug-tracing-with-a-custom-ps4/) — Feb 10, 2026
-- [Automating your GitHub organization profile with Actions](https://builtfast.dev/blog/automating-your-github-organization-profile-with-actions/) — Feb 9, 2026
 <!-- END:blog_post -->
 
 ---
