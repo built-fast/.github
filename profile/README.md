@@ -24,9 +24,9 @@ Developer tools, CLI utilities, GitHub Actions, and libraries, mostly focused on
 Latest changes to [Vector Pro][] and our open source tools. See the full [changelog](https://builtfast.dev/changelog/) for more.
 
 <!-- START:recently_shipped -->
+- [Vector Pro: Human-Readable Status Labels & Terminal State Filtering](https://builtfast.dev/changelog/2026-04-14-1/) — Apr 14, 2026
 - [Vector Pro: CDN & WAF API Endpoints](https://builtfast.dev/changelog/2026-04-08-1/) — Apr 8, 2026
 - [Vector Pro: Authentication Whoami Endpoint](https://builtfast.dev/changelog/2026-03-15-1/) — Mar 15, 2026
-- [Vector Pro: WordPress Auto-Install on Site Creation](https://builtfast.dev/changelog/2026-03-13-1/) — Mar 13, 2026
 <!-- END:recently_shipped -->
 
 ## Get In Touch
@@ -36,10 +36,10 @@ We write about the things we build at [builtfast.dev][devs]. If you want to talk
 <!-- START:blog_post -->
 **Latest from the blog:**
 
+- [OpenAPI is a cheatcode for building with AI](https://builtfast.dev/blog/openapi-is-a-cheatcode-for-building-with-ai/) — Apr 14, 2026
 - [Automating API Documentation with Scribe and GitHub Actions](https://builtfast.dev/blog/automating-api-documentation-with-scribe-and-github-actions/) — Apr 8, 2026
 - [Git worktrees for parallel Laravel development](https://builtfast.dev/blog/git-worktrees-for-parallel-laravel-development/) — Feb 28, 2026
 - [Customizing the Claude Code spinner](https://builtfast.dev/blog/customizing-the-claude-code-spinner/) — Feb 12, 2026
-- [Bash debug tracing with a custom PS4](https://builtfast.dev/blog/bash-debug-tracing-with-a-custom-ps4/) — Feb 10, 2026
 <!-- END:blog_post -->
 
 ---
