@@ -36,10 +36,10 @@ We write about the things we build at [builtfast.dev][devs]. If you want to talk
 <!-- START:blog_post -->
 **Latest from the blog:**
 
+- [Dark mode images in GitHub READMEs](https://builtfast.dev/blog/dark-mode-images-in-github-readmes/) — Apr 15, 2026
 - [OpenAPI is a cheatcode for building with AI](https://builtfast.dev/blog/openapi-is-a-cheatcode-for-building-with-ai/) — Apr 14, 2026
 - [Automating API Documentation with Scribe and GitHub Actions](https://builtfast.dev/blog/automating-api-documentation-with-scribe-and-github-actions/) — Apr 8, 2026
 - [Git worktrees for parallel Laravel development](https://builtfast.dev/blog/git-worktrees-for-parallel-laravel-development/) — Feb 28, 2026
-- [Customizing the Claude Code spinner](https://builtfast.dev/blog/customizing-the-claude-code-spinner/) — Feb 12, 2026
 <!-- END:blog_post -->
 
 ---
