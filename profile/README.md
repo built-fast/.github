@@ -24,9 +24,9 @@ Developer tools, CLI utilities, GitHub Actions, and libraries, mostly focused on
 Latest changes to [Vector Pro][] and our open source tools. See the full [changelog](https://builtfast.dev/changelog/) for more.
 
 <!-- START:recently_shipped -->
+- [Vector Pro: Account Settings Endpoint & External Customer URLs](https://builtfast.dev/changelog/2026-04-17-1/) — Apr 17, 2026
 - [Vector Pro: Human-Readable Status Labels & Terminal State Filtering](https://builtfast.dev/changelog/2026-04-14-1/) — Apr 14, 2026
 - [Vector Pro: CDN & WAF API Endpoints](https://builtfast.dev/changelog/2026-04-08-1/) — Apr 8, 2026
-- [Vector Pro: Authentication Whoami Endpoint](https://builtfast.dev/changelog/2026-03-15-1/) — Mar 15, 2026
 <!-- END:recently_shipped -->
 
 ## Get In Touch
