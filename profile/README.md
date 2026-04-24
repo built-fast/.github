@@ -24,9 +24,9 @@ Developer tools, CLI utilities, GitHub Actions, and libraries, mostly focused on
 Latest changes to [Vector Pro][] and our open source tools. See the full [changelog](https://builtfast.dev/changelog/) for more.
 
 <!-- START:recently_shipped -->
+- [Vector Pro: Account Summary Caching & 7-Day Deployment Metrics](https://builtfast.dev/changelog/2026-04-23-4/) — Apr 23, 2026
 - [Vector Pro: Deployment build_output Merged Into stdout](https://builtfast.dev/changelog/2026-04-23-3/) — Apr 23, 2026
 - [Vector Pro: Granular Provisioning Steps & Labels](https://builtfast.dev/changelog/2026-04-23-2/) — Apr 23, 2026
-- [Vector Pro: Optional Custom Domain on Environment Creation](https://builtfast.dev/changelog/2026-04-23-1/) — Apr 23, 2026
 <!-- END:recently_shipped -->
 
 ## Get In Touch
