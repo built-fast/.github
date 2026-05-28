@@ -1,0 +1,36 @@
+name: Check GitHub Actions
+
+on:
+  pull_request:
+    branches:
+      - main
+
+    paths:
+      - '.github/workflows/*.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  actions:
+    name: Check GitHub Actions
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          persist-credentials: false
+
+      - name: Setup matchers
+        run: echo "::add-matcher::.github/matchers/actionlint.json"
+        shell: bash
+
+      - name: Run actionlint
+        uses: rhysd/actionlint@914e7df21a07ef503a81201c76d2b11c789d3fca # v1.7.12
+
+      - name: Run zizmor
+        uses: zizmorcore/zizmor-action@5f14fd08f7cf1cb1609c1e344975f152c7ee938d # v0.5.6
+        with:
+          advanced-security: false
