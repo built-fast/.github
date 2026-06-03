@@ -24,9 +24,9 @@ Developer tools, CLI utilities, GitHub Actions, and libraries, mostly focused on
 Latest changes to [Vector Pro][] and our open source tools. See the full [changelog](https://builtfast.dev/changelog/) for more.
 
 <!-- START:recently_shipped -->
+- [builtfast.dev: LLM-Ready API Endpoint Files](https://builtfast.dev/changelog/2026-05-30-1/) — May 30, 2026
 - [Vector CLI: v0.9.0 Rewritten in Go](https://builtfast.dev/changelog/2026-05-22-1/) — May 22, 2026
 - [Vector Pro: DNS Status & Recheck Endpoint](https://builtfast.dev/changelog/2026-05-04-1/) — May 4, 2026
-- [Vector Pro: Logs Parameter Refinements](https://builtfast.dev/changelog/2026-04-24-2/) — Apr 24, 2026
 <!-- END:recently_shipped -->
 
 ## Get In Touch
