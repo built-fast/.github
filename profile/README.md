@@ -24,9 +24,9 @@ Developer tools, CLI utilities, GitHub Actions, and libraries, mostly focused on
 Latest changes to [Vector Pro][] and our open source tools. See the full [changelog](https://builtfast.dev/changelog/) for more.
 
 <!-- START:recently_shipped -->
-- [builtfast.dev: LLM-Ready API Endpoint Files](https://builtfast.dev/changelog/2026-05-30-1/) — May 30, 2026
-- [Vector CLI: v0.9.0 Rewritten in Go](https://builtfast.dev/changelog/2026-05-22-1/) — May 22, 2026
-- [Vector Pro: DNS Status & Recheck Endpoint](https://builtfast.dev/changelog/2026-05-04-1/) — May 4, 2026
+- [builtfast.dev: LLM-Ready API Endpoint Files](https://builtfast.dev/builtfast.dev/changelog/2026-05-30-1/) — May 30, 2026
+- [Vector CLI: v0.9.0 Rewritten in Go](https://builtfast.dev/builtfast.dev/changelog/2026-05-22-1/) — May 22, 2026
+- [Vector Pro: DNS Status & Recheck Endpoint](https://builtfast.dev/builtfast.dev/changelog/2026-05-04-1/) — May 4, 2026
 <!-- END:recently_shipped -->
 
 ## Get In Touch
@@ -36,10 +36,10 @@ We write about the things we build at [builtfast.dev][devs]. If you want to talk
 <!-- START:blog_post -->
 **Latest from the blog:**
 
-- [Dark mode images in GitHub READMEs](https://builtfast.dev/blog/dark-mode-images-in-github-readmes/) — Apr 15, 2026
-- [OpenAPI is a cheatcode for building with AI](https://builtfast.dev/blog/openapi-is-a-cheatcode-for-building-with-ai/) — Apr 14, 2026
-- [Automating API Documentation with Scribe and GitHub Actions](https://builtfast.dev/blog/automating-api-documentation-with-scribe-and-github-actions/) — Apr 8, 2026
-- [Git worktrees for parallel Laravel development](https://builtfast.dev/blog/git-worktrees-for-parallel-laravel-development/) — Feb 28, 2026
+- [Dark mode images in GitHub READMEs](https://builtfast.dev/builtfast.dev/blog/dark-mode-images-in-github-readmes/) — Apr 15, 2026
+- [OpenAPI is a cheatcode for building with AI](https://builtfast.dev/builtfast.dev/blog/openapi-is-a-cheatcode-for-building-with-ai/) — Apr 14, 2026
+- [Automating API Documentation with Scribe and GitHub Actions](https://builtfast.dev/builtfast.dev/blog/automating-api-documentation-with-scribe-and-github-actions/) — Apr 8, 2026
+- [Git worktrees for parallel Laravel development](https://builtfast.dev/builtfast.dev/blog/git-worktrees-for-parallel-laravel-development/) — Feb 28, 2026
 <!-- END:blog_post -->
 
 ---
